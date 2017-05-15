@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="category-link">
+<h2>
+{% for tag in site.my_tags %}
+<a href="{{ tag.url }}" class="category-link">{{ tag.name }}</a> &nbsp;
+{% endfor %}
+</h2>
+</div>
+
+<hr style="height:5px;border:none;color:#383838;background-color:#383838;">
+
+<br>
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+  
+  {{ content }}
+
+  <ul class="my-post-list">
+    {% for post in site.posts %}
+      <li>
+        <a class="my-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <span class="my-post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <hr>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

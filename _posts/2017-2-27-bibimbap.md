@@ -1,0 +1,58 @@
+---
+layout: post-with-tags
+title:  "Veggie Bibimbap"
+date:   2017-03-07 14:40:43 -0800S
+tags: [vegetarian, hard]
+cooking_time: "more than 1 hour"
+---
+
+This recipe is my notes from [Maangchi's Bibimbap video on YouTube](https://www.youtube.com/watch?v=6QQ67F8y2b8). 
+
+Before you do anything, throw a cup and a half of rice in your rice cooker or pressure cooker. (Follow this post on how to [pressure cook brown rice]({% post_url 2017-2-27-brown-rice-pressure-cooker-method %}) in 15 minutes.) 
+
+Ingredients:
+
+* Toasted sesame seeds
+* 3-4 cloves garlic minced
+* Cooking oil
+* Toasted sesame oil for seasoning
+* Salt for seasoning<sup>1</sup>
+* 1 bunch spinach well rinsed (you can substitute baby spinach to save time cleaning)
+* 1 lb bean sprouts
+* 1 red bell pepper
+* 1 carrot
+* 1 large zucchini
+* 2 green onions
+* 1 large cucumber
+* 3-4 eggs
+* Gochu Jang
+* Optional: cast iron pot for crisping rice and serving
+
+Recipe at a glance:
+
+* Blanch spinach, strain, chop, and season with salt, fresh garlic, toasted sesame oil, and toasted sesame seeds.
+* Boil bean sprouts for 20 minutes, strain, and season with salt, fresh garlic, and toasted sesame oil.
+* Chop and sauté red pepper in cooking oil (30 sec), add salt.
+* Chop and pre-salt<sup>2</sup> carrot, strain, and sauté in cooking oil.
+* Chop and pre-salt zucchini, strain, sauté with garlic and green onion in cooking oil, and season with sesame oil.
+* Chop and pre-salt cucumber, strain, and sauté with garlic in cooking oil, and season with sesame oil.
+* Add toasted sesame oil to cast iron pot (or special Korean stone bowls if you have them), spoon in cooked rice, add vegetables, and cook over medium heat for a few minutes after rice starts crackling
+* Fry a few eggs and serve on top
+* At the table, mix up the Bibimbap, and serve with Gochu Jang 
+
+Vegetable prep work:
+
+* Prepare the red bell pepper:
+    * Slice off top and bottom (snack on those), remove seeds, and slice into match sticks.
+* Prepare the carrot: 
+    * Peel carrot.
+    * Slice thinly at an angle and then push the slices together and slice them into match sticks.
+* Prepare the zucchini:
+    * Scrape off the wax and any blemishes with a serrated knife (no need to peel). 
+    * Slice into round pieces and then push the round pieces together to slice them into match sticks. 
+* Prepare the cucumber:
+    * Cut in half lengthwise, and slice into half moons.
+
+1. Almost everything is salted, but that doesn't mean the dish is very salty. Just sprinkle lightly each time you salt something.
+2. I'm using the phrase "pre-salt" to indicate that you salt the vegetable after chopping it, which draws out the water as you let it stand. Then you pour off excess liquid. 
+
