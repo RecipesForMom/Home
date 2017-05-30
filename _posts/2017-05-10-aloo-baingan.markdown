@@ -1,12 +1,14 @@
 ---
 layout: post-with-tags
 title:  "Aloo Baingan Capsicum"
-date:   2017-05-09 14:40:43 -0800S
-tags: [vegetarian, vegan, easy]
+date:   2017-05-10 00:00:00 -0800S
+tags: [vegetarian, vegan, easy, food processor recipes]
 cooking_time: "1 hr"
 ---
 
-This dish is called: Potato, Eggplant, Green Pepper. It is inspired by [Manjula's Kitchen's Aloo Baingan.](http://www.manjulaskitchen.com/aloo-baingan-potato-and-eggplant/) Also, check out [her YouTube channel.](https://www.youtube.com/user/Manjulaskitchen) It is where I learned to cook Indian food.<sup>1</sup>
+This dish is called: Potato, Eggplant, Green Pepper. It is inspired by [Manjula's Kitchen's Aloo Baingan.](http://www.manjulaskitchen.com/aloo-baingan-potato-and-eggplant/) Also, check out her [YouTube channel.](https://www.youtube.com/user/Manjulaskitchen) It is where I learned to cook Indian food.<sup>1</sup>
+
+The recipe is a variation on my ["Curried Anything: Cheater's Method Version 1"]({% post_url 2017-05-29-curried-anything %}) with the additional spice paprika. 
 
 <img src="{{ site.url }}/assets/aloo-baingan-capsicum/aloo-baingan-capsicum-ingredients.jpg" alt="Aloo Baingan Capsicum Ingredients" style="max-width: 700px; height: auto;"/>
 
@@ -16,15 +18,19 @@ Ingredients:
 * 1 eggplant or a few little ones cubed
 * 3 small potatoes cubed
 * 1 or 2 green bell peppers (or sub spicy peppers of your choice)
+
+* 2 inches fresh ginger [peeled]({% post_url 2017-05-09-how-to-peel-ginger %})
+* 5 cloves garlic [peeled]({% post_url 2017-05-09-how-to-peel-garlic %})
 * 3 small tomatoes
-* 2 inches fresh ginger peeled
-* 5 cloves garlic peeled
 * 1 green chili or 1/2 tsp red cayenne powder
+
+* 1 tsp whole cumin seeds and oil to sauté
+
 * 1 tbsp coriander powder
 * 1 tsp turmeric powder
 * 1 tsp paprika
-* 1 tsp whole cumin seeds and oil to sauté
 * salt to taste
+
 * optional: cilantro to garnish
 
 Instructions:

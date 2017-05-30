@@ -1,8 +1,8 @@
 ---
 layout: post-with-tags
 title:  "How to Peel Garlic"
-date:   2017-05-09 14:40:43 -0800S
-tags: [vegetarian, vegan, easy]
+date:   2017-05-09 00:00:00 -0800S
+tags: [vegetarian, vegan, easy, tricks and science]
 ---
 
 <img src="{{ site.url }}/assets/how-to-peel-garlic/how-to-peel-garlic-korean-grandmother.jpg" alt="How to Peel Garlic Korean Grandmother Style" style="max-width: 400px; height: auto;"/>

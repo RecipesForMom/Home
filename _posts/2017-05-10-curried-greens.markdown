@@ -1,25 +1,31 @@
 ---
 layout: post-with-tags
 title:  "Curried Greens"
-date:   2017-05-09 14:40:43 -0800S
-tags: [vegetarian, vegan, easy]
+date:   2017-05-10 00:00:00 -0800S
+tags: [vegetarian, vegan, easy, pressure cooker recipes, food processor recipes]
 cooking_time: "1 hr"
 ---
 
-This recipe is loosely inspired by [Nisha Madhulika's Sarson ka Saag.](https://www.youtube.com/watch?v=Re17lSewdy8) Sarson ka Saag is made of half mustard greens and half spinach. Kale was on sale at the store, so I used that.
+This recipe is loosely inspired by [Nisha Madhulika's Sarson ka Saag.](https://www.youtube.com/watch?v=Re17lSewdy8) Sarson ka Saag is made of half mustard greens and half spinach. Kale was on sale at the store, so I used that. It's better with spinach and mustard greens. I prefer [creamy kale]({% post_url 2017-05-29-creamy-kale %}) or [steamed kale]({% post_url 2017-05-29-steamed-kale %}). 
+
+The recipe is a variation on my ["Curried Anything: Cheater's Method Version 1"]({% post_url 2017-05-29-curried-anything %}) without coriander and with chickpea flour as a thickening agent for the sauce.
 
 <img src="{{ site.url }}/assets/curried-greens/curried-greens-ingredients.jpg" alt="Aloo Baingan Capsicum" style="max-width: 700px; height: auto;"/>
 
 Ingredients:
 * 2 bunches of kale or 1 bunch mustard greens, 1 bunch spinach
-* 2 inches fresh ginger peeled
-* 5 cloves fresh garlic peeled
+
+* 2 inches fresh ginger [peeled]({% post_url 2017-05-09-how-to-peel-ginger %})
+* 5 cloves fresh garlic [peeled]({% post_url 2017-05-09-how-to-peel-garlic %})
 * 3 small tomatoes
 * 1 green chili or 1/2 tsp red cayenne powder (or more to taste)
-* 1 tsp turmeric powder
+
 * 1 tsp whole cumin seeds and oil for frying
+
+* 1 tsp turmeric powder
 * salt to taste
 * 1/4 c chickpea flour (besan)<sup>1</sup>
+
 * optional: 1 tbsp dried fenugreek leaves (methi)
 * optional: cilantro to taste
 

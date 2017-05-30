@@ -1,8 +1,8 @@
 ---
 layout: post-with-tags
 title:  "Vegetarian Borscht (With Pressure Cooker)"
-date:   2017-05-06 14:40:43 -0800S
-tags: [vegetarian, vegan, hard]
+date:   2017-05-06 00:00:00 -0800S
+tags: [vegetarian, vegan, hard, pressure cooker recipes, food processor recipes]
 cooking_time: "1 hr"
 ---
 
