@@ -1,7 +1,7 @@
 ---
 layout: post-with-tags
 title:  "Rubber Gloves"
-date:   2017-02-27 14:40:43
+date:   2017-02-27 00:00:00 -0800S
 tags: [minimal-household-cleaning]
 ---
 

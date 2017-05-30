@@ -1,14 +1,14 @@
 ---
 layout: post-with-tags
 title:  "Veggie Bibimbap"
-date:   2017-03-07 14:40:43 -0800S
+date:   2017-02-27 14:40:43 -0800S
 tags: [vegetarian, hard]
 cooking_time: "more than 1 hour"
 ---
 
 This recipe is my notes from [Maangchi's Bibimbap video on YouTube](https://www.youtube.com/watch?v=6QQ67F8y2b8). 
 
-Before you do anything, throw a cup and a half of rice in your rice cooker or pressure cooker. (Follow this post on how to [pressure cook brown rice]({% post_url 2017-2-27-brown-rice-pressure-cooker-method %}) in 15 minutes.) 
+Before you do anything, throw a cup and a half of rice in your rice cooker or pressure cooker. (Follow this post on how to [pressure cook brown rice]({% post_url 2017-02-27-brown-rice-pressure-cooker-method %}) in 15 minutes.) 
 
 Ingredients:
 

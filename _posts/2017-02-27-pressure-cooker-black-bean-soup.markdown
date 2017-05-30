@@ -1,8 +1,8 @@
 ---
 layout: post-with-tags
 title:  "Pressure Cooker Black Bean Soup"
-date:   2017-02-27 14:40:43 -0800S
-tags: [vegetarian, vegan, easy]
+date:   2017-02-27 00:00:00 -0800S
+tags: [vegetarian, vegan, easy, presure cooker recipes]
 cooking_time: "30 min"
 ---
 
