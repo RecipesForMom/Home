@@ -1,6 +1,6 @@
 ---
 layout: post-with-tags
-title:  "Cacık: cold yogurt soup with cucumbers"
+title:  "Cacık: Cold Yogurt Soup with Cucumbers"
 date:   2018-02-10 00:00:00 -0800S
 tags: [vegetarian, easy, food processor recipes]
 cooking_time: "20 minutes"
