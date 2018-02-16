@@ -1,8 +1,8 @@
 ---
 layout: post-with-tags
 title:  "Lazy Crustless Quiche"
-date:   2018-02-10 00:00:00 -0800S
-tags: [Easy]
+date:   2018-02-15 00:00:00 -0800S
+tags: [easy]
 cooking_time: "30 minutes"
 ---
 

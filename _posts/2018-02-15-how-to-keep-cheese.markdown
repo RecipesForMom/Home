@@ -2,7 +2,7 @@
 layout: post-with-tags
 title:  "How to Keep Cheese"
 date:   2018-02-15 00:00:00 -0800S
-tags: [Easy, Tricks and Science]
+tags: [easy, tricks and science]
 
 ---
 
