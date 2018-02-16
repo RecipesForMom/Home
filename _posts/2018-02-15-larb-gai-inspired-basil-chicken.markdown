@@ -14,7 +14,7 @@ Ingredients:
 * 6 cloves garlic peeled and chopped, plus oil to sauté
 * 1/4 c fish sauce
 * 1/4 c lime juice plus more for adding afterwards to taste
-* 1 jalepeño
+* 1 jalapeño
 * 1 large package of basil or 3 of the 1 oz packages you can find in most grocery stores with the leaves picked off of the stems
 
 Instructions:
