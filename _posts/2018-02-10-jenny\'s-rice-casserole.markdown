@@ -2,7 +2,7 @@
 layout: post-with-tags
 title:  "Jenny's Rice Casserole"
 date:   2018-02-10 00:00:00 -0800S
-tags: [Easy]
+tags: [easy]
 cooking_time: "1 hr"
 ---
 
